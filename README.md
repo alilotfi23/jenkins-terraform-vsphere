@@ -11,7 +11,7 @@ Stick to a provider version that ensures there are no breaking changes.
 ## terrafprm main file
 main.tf will contain the main set of configurations for your module.
 # main.tf file 
-create vm in datacenter with specific amount of resource
+This code will create vm in datacenter with specific amount of resource
 ## run terraform code
 Install provider
 
@@ -27,5 +27,5 @@ The terraform apply command is used to apply the changes required to reach the d
 ```shell
 terraform apply
 ```
-#jenkinsfile
+# jenkinsfile
 use jenkins pipline to a init,fmt,validate and apply terraform code
