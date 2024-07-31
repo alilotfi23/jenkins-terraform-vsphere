@@ -27,5 +27,5 @@ The terraform apply command is used to apply the changes required to reach the d
 ```shell
 terraform apply
 ```
-# jenkinsfile
-use jenkins pipline to a init,fmt,validate and apply terraform code
+# jenkins file
+The jenkins pipline run terraform (init, fmt, validate) before apply command 
