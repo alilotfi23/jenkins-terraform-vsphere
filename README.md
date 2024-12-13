@@ -7,7 +7,7 @@ Building Terraform Pipeline using Jenkins.
 ## terraform provider file
 A provider in Terraform is a plugin that enables interaction with an API. This includes Cloud providers and Software-as-a-service providers. The providers are specified in the Terraform configuration code. They tell Terraform which services it 
 ## terraform versions file
-You can stick to a provider version that makes sure there are no breaking changes.
+You can stick to a provider version that ensures no breaking changes.
 ## terrafprm main file
 main.tf will contain the main set of configurations for your module.
 # main.tf file 
